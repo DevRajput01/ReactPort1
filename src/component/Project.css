@@ -1,0 +1,61 @@
+.pro-head {
+    text-align: center;
+    margin: 10px;
+    padding: 10px;
+    font-size: larger;
+    height: auto;
+    width: auto;
+    background-color: #ffffff;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: bold;
+    color: rgb(60, 60, 65);
+    cursor: pointer;
+}
+.pro-head :hover{
+  background-color: #30d354;
+  transition: ease-in-out;
+  color: rgb(5, 27, 223);
+  cursor: pointer;
+}
+  .pro-p {
+    text-align: center;
+    margin: 10px;
+    align-items: center;
+    color: rgb(0, 0, 0);
+    background-color: #ffffff;
+    justify-content: center;
+    margin-left: 30px;
+    margin-right: 40px;
+    padding-left: 10px;
+    border-radius: 10px;
+    box-shadow: 0 0 20px rgb(8, 86, 243);
+
+  }
+
+  .cards-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 25px;
+  }
+.card1{
+  background-color: #ffffff;
+  border-radius: 2%;
+  padding: 10px;
+  margin: 10px;
+  margin-left: 20px;
+  border-style: solid;
+  border-width: 1px;
+  border-color: #ffffff;
+  box-shadow: 0 0 20px rgb(255, 255, 255);
+  cursor: pointer;
+  -webkit-border-radius: 2%;
+  -moz-border-radius: 2%;
+  -ms-border-radius: 2%;
+  -o-border-radius: 2%;
+}
+.techStack{
+  display: flex;
+  color: blue;
+  padding: 10px;
+}

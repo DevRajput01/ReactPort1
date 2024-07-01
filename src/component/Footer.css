@@ -1,0 +1,70 @@
+/* .foot-social-box{
+    justify-items: right;
+    padding: 10px;
+    justify-content: right;
+    display: flex;
+}
+.foot-Icon-box{
+    cursor: pointer;
+}
+.foot-Icon-box:hover{
+    color:rgb(255, 255, 255) ;
+}
+
+.anim-foot{
+    display: flex;
+    height: 150px;
+    width: 150px;
+    align-items: left;
+    justify-content: left;
+    align-content: left;
+} */
+
+
+  /* .para-box{
+    height: 120px;
+    width: 250px;
+    font-size: small;
+    background-color: #f0f0f0;
+    color: black;
+    border: 0px;
+    border-style: solid;
+    padding: 10px;
+    border-radius: 5%;
+    box-shadow: 0 0 20px rgb(255, 255, 255);
+    -webkit-border-radius: 5%;
+    -moz-border-radius: 5%;
+    -ms-border-radius: 5%;
+    -o-border-radius: 5%; */
+
+
+
+
+
+
+
+    .foot-social-box {
+        justify-content: right;
+        align-items: right;
+        gap: 10px;
+        font-size: larger;
+      }
+  .foot-Icon-box {
+    transition: color 0.5s;
+    -webkit-transition: color 0.5s;
+    -moz-transition: color 0.5s;
+    -ms-transition: color 0.5s;
+    -o-transition: color 0.5s;
+}
+
+  .anim-foot {
+    justify-content: left;
+    align-items: left;
+  }
+  
+.all-right{
+    text-align: center;
+    justify-content: center;
+    color: white;
+
+}
