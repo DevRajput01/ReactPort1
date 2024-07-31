@@ -1,4 +1,4 @@
-You can view the project at: [devendra12.netlify.app]     http://devendra12.netlify.app.
+You can view this project at: [devendra12.netlify.app]     http://devendra12.netlify.app.
 
 # Getting Started with Create React App
 
